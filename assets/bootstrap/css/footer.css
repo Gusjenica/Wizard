@@ -96,3 +96,22 @@ ul li:nth-child(3):hover span{
 ul li:nth-child(4):hover span{
   background: #FCEB00 !important;
 }
+
+@media  screen and (max-width: 992px) {
+  .fill{
+    margin-top: -9%;
+    margin-left: 40%;
+    background-color: #b27777;
+    height: 100%;
+ }
+}
+
+@media screen and (max-width: 600x) {
+  .fill{
+    margin-top: -15%;
+    margin-left: 40%;
+    background-color: #b27777;
+    height: 100%;
+ }
+}
+
